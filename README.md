@@ -7,7 +7,7 @@ A modern and responsive **"Coming Soon"** landing page for a chai brand, designe
 ## 🌟 Features  
 
 ✅ **Full-Screen Gradient Background** - Beautiful **linear gradient** for an engaging user experience.  
-✅ **Centered Content Box** - A stylish white box with rounded corners that highlights the main content.  
+✅ **Centered Content Box** - A stylish white box with rounded corners highlighting the main content.  
 ✅ **Chai Logo & Heading** - A prominently displayed **chai cup logo** and **"Coming Soon"** text.  
 ✅ **Subscription Form** - Users can enter their email addresses to get notified about the launch.  
 ✅ **Interactive Button** - Smooth hover effects and shadow for a modern UI.  
@@ -22,10 +22,3 @@ A modern and responsive **"Coming Soon"** landing page for a chai brand, designe
 - **CSS3** - For styling, animations, and responsiveness.  
 - **SVG** - For the decorative wave design.  
 
----
-
-## 🚀 Getting Started  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/chai-landing-page.git
